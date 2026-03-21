@@ -1,8 +1,14 @@
-# Look For Work
+<p align="center">
+  <img src="logo.png" alt="Look For Work" width="600">
+</p>
 
-A Claude Code plugin that proactively scans your codebase for the highest-impact improvement opportunities — so you never have to wonder what to work on next.
+<p align="center">
+  <em>A Claude Code plugin that proactively scans your codebase for the highest-impact improvement opportunities — so you never have to wonder what to work on next.</em>
+</p>
 
-> *If you owned this codebase, what would you fix first?*
+<p align="center">
+  <strong>If you owned this codebase, what would you fix first?</strong>
+</p>
 
 ## Installation
 
