@@ -6,8 +6,14 @@ A Claude Code plugin that proactively scans your codebase for the highest-impact
 
 ## Installation
 
+**Step 1** — Add the marketplace:
 ```
-/install-plugin mpge/look-for-work-claude
+/plugin marketplace add mpge/look-for-work-claude
+```
+
+**Step 2** — Install the plugin (via the `/plugin` menu → Discover tab, or directly):
+```
+/plugin install look-for-work
 ```
 
 ## Usage
