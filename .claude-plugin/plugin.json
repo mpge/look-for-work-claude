@@ -1,0 +1,8 @@
+{
+  "name": "look-for-work",
+  "version": "1.0.0",
+  "description": "Proactive codebase analysis agent that scans for the highest-impact improvement opportunities across architecture, security, performance, testing, code quality, and more",
+  "author": {
+    "name": "mpge"
+  }
+}
