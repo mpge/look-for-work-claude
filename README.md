@@ -14,6 +14,8 @@
   <strong>This audit may be computational intensive, keep in your mind your context</strong>
 </p>
 
+> Also available for [Codex CLI](https://github.com/mpge/look-for-work-codex)
+
 ## Installation
 
 **Step 1** — Add the marketplace:
@@ -148,6 +150,13 @@ The agents in the `agents/` directory are individually customizable. You can:
 - Add new agents for domain-specific analysis (e.g., accessibility, i18n, compliance)
 - Remove agents you don't need
 - Adjust the command's phase structure in `commands/look-for-work.md`
+
+## Also Available For
+
+| Platform | Repository |
+|----------|------------|
+| **Claude Code** | [mpge/look-for-work-claude](https://github.com/mpge/look-for-work-claude) |
+| **Codex CLI** | [mpge/look-for-work-codex](https://github.com/mpge/look-for-work-codex) |
 
 ## Requirements
 
