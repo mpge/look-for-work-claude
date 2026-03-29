@@ -10,6 +10,10 @@
   <strong>If you owned this codebase, what would you fix first?</strong>
 </p>
 
+<p align="center">
+  <strong>This audit may be computational intensive, keep in your mind your context</strong>
+</p>
+
 ## Installation
 
 **Step 1** — Add the marketplace:
